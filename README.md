@@ -13,7 +13,7 @@
 ![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![PHP](https://img.icons8.com/?size=100&id=13460&format=png&color=000000)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg)
+![Laravel](https://img.icons8.com/?size=100&id=hUvxmdu7Rloj&format=png&color=000000)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![C#](https://img.icons8.com/?size=100&id=45490&format=png&color=000000)
