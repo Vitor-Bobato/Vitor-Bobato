@@ -16,7 +16,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![C#](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
+![C#](https://img.icons8.com/?size=100&id=45490&format=png&color=000000)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Flutter](https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
