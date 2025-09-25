@@ -12,7 +12,7 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
-![PHP](https://img.icons8.com/?size=100&id=3753&format=png&color=000000)
+![PHP](https://img.icons8.com/?size=100&id=13460&format=png&color=000000)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
