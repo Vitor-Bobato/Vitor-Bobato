@@ -1,7 +1,7 @@
 # 👋 **Hello there! I'm Vitor, welcome to my profile!**
 
-🎓 **6th-semester Software Engineering Student**
-💻 **A passionate enthusiast for technology, software development, data analysis, automations, and creative problem-solving.**
+* 🎓 **6th-semester Software Engineering Student**
+* 💻 **A passionate enthusiast for technology, software development, data analysis, automations, and creative problem-solving.**
 
 ---
 
